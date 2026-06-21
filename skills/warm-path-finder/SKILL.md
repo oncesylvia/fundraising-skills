@@ -118,10 +118,12 @@ actually replies to and who genuinely rates you** — not the most senior name.
 
 If the founder is raising in the **China market**, read
 `shared/references/china-market-playbook.md` and use
-`references/zh-talk-tracks.md`. LinkedIn is effectively gone in China — the
-equivalents are **脉脉 (Maimai), 微信好友/群, 校友圈 (EMBA/商学院), 前同事/大厂**.
-For 欧美 investors who look at APAC, X (via the investor's public account) and
-portfolio-founder intros still apply.
+`references/zh-talk-tracks.md`. LinkedIn is effectively gone in China and WeChat has no clean contact export, so
+**do not** ask a China founder for a LinkedIn CSV. Instead have them fill the
+**focused contact sheet** (`references/contact-sheet-template.csv`) from their
+phone contacts export, CamCard/名片全能王 export, alumni rosters, and WeChat tags
+— then mine that. Full how-to (中文) is in `references/exporting-your-data.md`.
+Online paths: 脉脉 (Maimai), 微信好友/群, 校友圈; X applies only for 欧美 investors.
 
 ## Refuse / push back when
 
