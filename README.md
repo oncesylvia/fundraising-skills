@@ -49,6 +49,25 @@ A **warm intro beats the best cold email** — if a path exists, start there.
    something specific and true about them. Truthful traction only. See
    [shared/references/outreach-ethics.md](shared/references/outreach-ethics.md).
 
+## Bilingual: US & China markets (中英双语)
+
+Fundraising in China is **not** translated US fundraising — the primary channel
+is WeChat (微信) not email, FA (融资顾问) and 关系 play a bigger role, founders
+send a BP (商业计划书) rather than pitch a deck, and forms of address and
+etiquette differ. So the outreach skills ship with **localized Chinese talk
+tracks** (not literal translations), anchored by a
+[China-market playbook](shared/references/china-market-playbook.md):
+
+- `cold-email` → WeChat opener + email versions, follow-ups
+- `warm-intro` → WeChat group-intro etiquette + forwardable blurb
+- `cold-call` → opener, objection bank, close — all in Chinese
+- `pitch-narrative` → one-liner + BP story line in Chinese
+- `investor-targeting` → China data sources (IT桔子/企查查/36氪…)
+
+The skill instructions stay in English (so they trigger reliably and reach a
+wider audience); the **output** adapts to whichever market and language the
+founder is working in. Just ask in Chinese, or say you're raising in China.
+
 ## Install
 
 This repo is a Claude Code plugin marketplace. In Claude Code:
@@ -83,10 +102,12 @@ and the matching skill triggers.
 
 ## Status & contributing
 
-v0.2 — seven skills covering the full funnel from story to close. Issues and PRs
-welcome, especially: localized variants (non-US markets), more sector search
-recipes, and bilingual (EN/中文) talk tracks. Nothing here is legal or financial
-advice; founders are responsible for their own outreach and compliance.
+v0.3 — seven skills covering the full funnel from story to close, with bilingual
+(EN/中文) talk tracks for US and China markets. Issues and PRs welcome,
+especially: more localized variants (Europe, SEA), additional sector search
+recipes, and the planned skills (term-sheet basics, data-room checklist).
+Nothing here is legal or financial advice; founders are responsible for their
+own outreach and compliance.
 
 ## License
 

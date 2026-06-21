@@ -66,6 +66,16 @@ never from inflation.
 - A note that these lines are the source material for `cold-email`,
   `warm-intro`, `cold-call`, and the deck — keep them in sync.
 
+## Bilingual / China market (中文)
+
+If the founder is in the **China market** or asks for **Chinese**, use
+`references/zh-talk-tracks.md` and first read
+`shared/references/china-market-playbook.md`. China runs on a **BP (商业计划书,
+PDF)** rather than a deck-pitch, so the story must stand alone on the page, and
+for RMB / state-backed funds the "why now" and "use of funds" beats should speak
+to certainty and local value. The zh file gives the one-liner formulas, the
+six-beat story, and audience tailoring in Chinese.
+
 ## Refuse / push back when
 
 - The founder wants buzzword-dense "investor-speak" — push for plain language;

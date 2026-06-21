@@ -82,6 +82,15 @@ Then send that email (use the `cold-email` skill) so there's a written trail.
 - The closing ask + the next-step confirmation line.
 - One line of delivery coaching tailored to what the founder's nervous about.
 
+## Bilingual / China market (中文)
+
+If the founder is in the **China market** or asks for **Chinese**, use
+`references/zh-talk-tracks.md` and first read
+`shared/references/china-market-playbook.md`. Pure cold calls are rare in China;
+most calls are intro-led, in-person carries more weight, and address forms (X
+总/老师) and a softer opening matter. The zh file gives the opener, 90-second
+story, a full Chinese objection bank, and the close.
+
 ## Refuse / push back when
 
 - The founder wants a word-for-word script to read — coach beats over scripts;

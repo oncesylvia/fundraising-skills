@@ -112,6 +112,15 @@ Then add:
 - **Verify-before-send reminder**: re-check each firm's current stage focus and
   contact preference right before reaching out — these go stale.
 
+## Bilingual / China market (中文)
+
+If the founder is raising in the **China market**, read
+`shared/references/china-market-playbook.md` first. The free data sources differ
+— use **IT桔子 / 企查查 / 天眼查 / 36氪 / 投资界** instead of Crunchbase to
+verify a fund's deals and whether it's an RMB or state-backed fund (人民币/国资,
+which changes its mandate and process). Same anti-hallucination rule: research
+live, cite the source, never invent a 机构 name.
+
 ## Anti-patterns to refuse
 
 - Producing a long list "from knowledge" without searching.

@@ -79,6 +79,15 @@ Deliver:
 - A one-line **personalization checklist**: the specific true fact you used, and
   a reminder to re-verify it before sending.
 
+## Bilingual / China market (中文)
+
+If the founder is raising in the **China market** or asks for **Chinese**
+output, use `references/zh-talk-tracks.md` and first read
+`shared/references/china-market-playbook.md`. Don't just translate the English —
+China's primary channel is **WeChat (微信), not email**, etiquette and forms of
+address differ, and a warm path matters even more. The zh file gives WeChat
+opener + email versions, follow-ups, and a personalization checklist in Chinese.
+
 ## Refuse / push back when
 
 - The user wants one generic email to blast to a list → offer instead to write a

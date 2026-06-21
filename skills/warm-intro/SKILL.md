@@ -87,6 +87,16 @@ editing.
 - **One investor per ask** (unless the connector explicitly offers several) —
   don't hand someone a list to shop you around; it reads as low-conviction.
 
+## Bilingual / China market (中文)
+
+If the founder is raising in the **China market** or asks for **Chinese**
+output, use `references/zh-talk-tracks.md` and first read
+`shared/references/china-market-playbook.md`. In China, intros usually run over
+**WeChat (拉群 / 推名片)** rather than a forwardable email, and closing the loop
+with the connector (致谢) is even more important — 人情 is reciprocal. The zh
+file gives the connector ask, a forwardable blurb, group-intro etiquette, and the
+thank-you/loop-close, all in Chinese.
+
 ## Output format
 
 Deliver:
