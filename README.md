@@ -73,7 +73,7 @@ founder is working in. Just ask in Chinese, or say you're raising in China.
 This repo is a Claude Code plugin marketplace. In Claude Code:
 
 ```
-/plugin marketplace add your-handle/fundraising-skills
+/plugin marketplace add oncesylvia/fundraising-skills
 /plugin install fundraising-skills@fundraising-skills
 ```
 
