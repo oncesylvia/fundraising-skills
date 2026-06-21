@@ -1,0 +1,19 @@
+{
+  "name": "fundraising-skills",
+  "version": "0.1.0",
+  "description": "Skills that help startup founders find the right investors for their stage and sector, then run cold email, cold outreach, and warm introductions — without spray-and-pray or hallucinated investor lists.",
+  "author": {
+    "name": "Your Name",
+    "email": "you@example.com"
+  },
+  "homepage": "https://github.com/your-handle/fundraising-skills",
+  "license": "MIT",
+  "keywords": [
+    "fundraising",
+    "startups",
+    "venture-capital",
+    "cold-email",
+    "investor-outreach",
+    "warm-intro"
+  ]
+}
