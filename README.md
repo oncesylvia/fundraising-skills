@@ -16,28 +16,28 @@ things that quietly wreck a raise: **hallucinated investor lists** and
 ## The fundraising funnel → which skill helps
 
 ```
-  ① Find the list          ② Reach out
- ┌──────────────────┐    ┌───────────────────────────┐
- │ investor-        │    │ warm-intro  (best path)    │
- │ targeting        │ →  │ cold-email  (no warm path) │
- └──────────────────┘    └───────────────────────────┘
-   who fits my stage,       turn a fit into a
-   sector, check size?      conversation
+  ⓪ Sharpen the story     ① Find & qualify          ② Reach out             ③ Run the process
+ ┌───────────────────┐  ┌────────────────────┐  ┌──────────────────────┐  ┌──────────────────┐
+ │ pitch-narrative   │→ │ investor-targeting │→ │ warm-intro (best)    │→ │ pipeline-tracker │
+ │ one-liner + story │  │ investor-research  │  │ cold-email (no path) │  │ track + follow up│
+ └───────────────────┘  └────────────────────┘  │ cold-call  (on live  │  └──────────────────┘
+                                                 │            calls)    │
+                                                 └──────────────────────┘
 ```
 
-This is the **MVP** (v0.1). Targeting + the two outreach motions cover the
-highest-pain part of a raise. More skills (research/diligence on a single
-investor, pipeline/CRM tracking, pitch narrative, cold-call scripts) are planned.
+A **warm intro beats the best cold email** — if a path exists, start there.
 
 ## Skills
 
 | Skill | Use it when… | What you get |
 |---|---|---|
+| **[pitch-narrative](skills/pitch-narrative/SKILL.md)** | Your story is fuzzy (do this first) | A sharp one-liner, 30-sec elevator pitch, and a 6-beat round narrative the others reuse |
 | **[investor-targeting](skills/investor-targeting/SKILL.md)** | "Who should I raise from?" | A tiered (A/B/C) target list, each with a fit reason, **source link**, and confidence flag — researched live, never invented |
-| **[cold-email](skills/cold-email/SKILL.md)** | You have a fit but no warm path | A short, personalized email + 2 subject lines + a polite follow-up sequence |
+| **[investor-research](skills/investor-research/SKILL.md)** | Before reaching out or taking a meeting | A fact-checked one-page profile of one investor: thesis, recent checks, right partner, conflicts, red flags, smart questions to ask |
 | **[warm-intro](skills/warm-intro/SKILL.md)** | You have a mutual connection | A forwardable double opt-in intro, the no-pressure ask to your connector, and the etiquette to not burn the relationship |
-
-A **warm intro beats the best cold email** — if a path exists, start there.
+| **[cold-email](skills/cold-email/SKILL.md)** | You have a fit but no warm path | A short, personalized email + 2 subject lines + a polite follow-up sequence |
+| **[cold-call](skills/cold-call/SKILL.md)** | You have a live or first call | A 30-sec opener, narrative beats, an objection bank, a voicemail script, and a clean closing ask |
+| **[pipeline-tracker](skills/pipeline-tracker/SKILL.md)** | Managing the whole raise | A file-based investor CRM, follow-up discipline, and funnel/momentum coaching |
 
 ## Two principles baked into every skill
 
@@ -67,21 +67,26 @@ and the matching skill triggers.
 
 ## A typical flow
 
-1. **Target** — `investor-targeting` builds your tiered list from a profile of
+1. **Sharpen the story** — `pitch-narrative` forges the one-liner and round
+   narrative everything else reuses.
+2. **Target** — `investor-targeting` builds your tiered list from a profile of
    your raise (stage, sector, geo, check size, traction).
-2. **Warm up your pitch** — approach a few Tier-B firms first to collect
+3. **Diligence each one** — `investor-research` profiles a firm before you spend
+   a warm intro or take a meeting.
+4. **Warm up your pitch** — approach a few Tier-B firms first to collect
    objections and sharpen the story.
-3. **Go warm where you can** — `warm-intro` for any investor you have a path to.
-4. **Go cold where you can't** — `cold-email` for the rest, one personalized
-   email at a time.
-5. Repeat, keep notes, follow up twice, and stop gracefully.
+5. **Go warm where you can** — `warm-intro` for any investor you have a path to;
+   `cold-email` for the rest, one personalized email at a time.
+6. **Prep every call** — `cold-call` for openers, objections, and the close.
+7. **Track it all** — `pipeline-tracker` keeps momentum, follow-ups, and the
+   funnel honest. Follow up twice, then stop gracefully.
 
 ## Status & contributing
 
-v0.1 — MVP. Issues and PRs welcome, especially: localized variants (non-US
-markets), more sector search recipes, and the planned skills above. Nothing here
-is legal or financial advice; founders are responsible for their own outreach
-and compliance.
+v0.2 — seven skills covering the full funnel from story to close. Issues and PRs
+welcome, especially: localized variants (non-US markets), more sector search
+recipes, and bilingual (EN/中文) talk tracks. Nothing here is legal or financial
+advice; founders are responsible for their own outreach and compliance.
 
 ## License
 
