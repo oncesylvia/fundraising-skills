@@ -49,7 +49,9 @@ For a target firm, identify the specific decision-maker, not "the firm." See
 ## Step 2 — Search the founder's own authorized data first (Tier 1)
 
 This is where the real warm paths hide, and it's 100% authorized. Ask the
-founder which they can provide, then mine it:
+founder which they can provide, then mine it. If they don't know how to get the
+data, point them to `references/exporting-your-data.md` (step-by-step LinkedIn
+export + Gmail/contacts, EN + 中文).
 
 - **Gmail** (if connected): search their history for anyone already linked to the
   target firm or person — past threads, shared recipients, intros they've

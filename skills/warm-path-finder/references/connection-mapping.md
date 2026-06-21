@@ -22,6 +22,8 @@ There is **no API** for a user's connections, and scraping breaks ToS. The legit
 route: the founder exports their own data.
 - LinkedIn → **Settings → Data Privacy → Get a copy of your data → Connections**
   → download the CSV (name, company, position, and any email they shared).
+  Full step-by-step (for the founder to follow) is in
+  `references/exporting-your-data.md`.
 - Hand the CSV to the skill. Cross-reference against:
   - people **at the target firm**,
   - **portfolio founders** of the firm (the firm's own portfolio list × the
