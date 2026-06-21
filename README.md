@@ -1,5 +1,7 @@
 # Fundraising Skills
 
+![Fundraising Skills — open-source Claude Code skills for founder-led fundraising](assets/social-card.svg)
+
 A small, **honest** toolkit for founder-led fundraising, built as
 [Claude Code](https://claude.com/claude-code) Skills.
 
@@ -132,6 +134,23 @@ and the matching skill triggers.
 7. **Prep every call** — `cold-call` for openers, objections, and the close.
 8. **Track it all** — `pipeline-tracker` keeps momentum, follow-ups, and the
    funnel honest. Follow up twice, then stop gracefully.
+
+## Built by a founder, mid-raise
+
+I built these while raising my own round — they're the skills I wished I had for
+founder-led fundraising, so I'm sharing them. If you're raising too, I hope they
+save you time.
+
+I'm building **[Copay](https://github.com/oncesylvia)** — agentic payment
+infrastructure (a stablecoin checkout for human + AI shared spending). If you
+invest in **agentic payments / stablecoin infrastructure**, or know someone who
+does, I'd genuinely love to compare notes — reach out via GitHub
+[@oncesylvia](https://github.com/oncesylvia).
+
+> 我一边给自己的公司 **Copay**(agentic 稳定币支付基础设施)募资,一边做了这套
+> skill。同在募资路上的朋友,希望能帮你省点时间。如果你看 agentic payments /
+> 稳定币基础设施方向,欢迎通过 GitHub [@oncesylvia](https://github.com/oncesylvia)
+> 找我聊聊。
 
 ## Status & contributing
 

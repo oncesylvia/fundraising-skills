@@ -1,0 +1,31 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Fundraising Skills social card</title>
+<desc>Open-source Claude Code skills for founder-led fundraising: no hallucinated investor lists, no spray-and-pray, bilingual EN and Chinese. 8 skills, MIT, free. github.com/oncesylvia/fundraising-skills.</desc>
+<rect x="0" y="0" width="1200" height="630" fill="#0F1115"/>
+<rect x="0" y="0" width="1200" height="8" fill="#2BB789"/>
+
+<text x="64" y="96" fill="#2BB789" font-family="sans-serif" font-size="23" font-weight="500">Open-source skills for Claude Code</text>
+<text x="1136" y="96" fill="#99A2AE" font-family="sans-serif" font-size="19" text-anchor="end">built by a founder, mid-raise</text>
+
+<text x="64" y="186" fill="#F4F6F8" font-family="sans-serif" font-size="52" font-weight="500">Find the right investors.</text>
+<text x="64" y="252" fill="#F4F6F8" font-family="sans-serif" font-size="52" font-weight="500">Reach them without spam.</text>
+
+<polyline points="64,326 73,336 90,314" fill="none" stroke="#2BB789" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="104" y="334" fill="#E4E8EC" font-family="sans-serif" font-size="24">No made-up investor lists — every name is cited</text>
+
+<polyline points="64,388 73,398 90,376" fill="none" stroke="#2BB789" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="104" y="396" fill="#E4E8EC" font-family="sans-serif" font-size="24">No spray-and-pray — personal, true, compliant</text>
+
+<polyline points="64,450 73,460 90,438" fill="none" stroke="#2BB789" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="104" y="458" fill="#E4E8EC" font-family="sans-serif" font-size="24">Bilingual EN / 中文 — for US &amp; China raising</text>
+
+<rect x="828" y="150" width="300" height="40" rx="10" fill="#13463A"/>
+<rect x="853" y="206" width="250" height="40" rx="10" fill="#15604E"/>
+<rect x="878" y="262" width="200" height="40" rx="10" fill="#1D9E75"/>
+<rect x="903" y="318" width="150" height="40" rx="10" fill="#2BB789"/>
+<rect x="923" y="374" width="110" height="40" rx="10" fill="#6FD9B6"/>
+
+<line x1="64" y1="528" x2="1136" y2="528" stroke="#2A313B" stroke-width="1"/>
+<text x="64" y="576" fill="#2BB789" font-family="monospace" font-size="25">github.com/oncesylvia/fundraising-skills</text>
+<text x="1136" y="576" fill="#99A2AE" font-family="sans-serif" font-size="23" text-anchor="end">8 skills · MIT · free</text>
+</svg>
