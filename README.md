@@ -26,6 +26,32 @@ things that quietly wreck a raise: **hallucinated investor lists** and
 
 A **warm intro beats the best cold email** — if a path exists, start there.
 
+## Is this for you? / 这套适合你吗?
+
+**Use it if 👇 / 符合以下就用得上:**
+
+| ✅ | English | 中文 |
+|---|---|---|
+| | Raising pre-seed / seed / Series A, doing **founder-led** outreach yourself | 自己在跑 pre-seed / 种子 / A 轮募资 |
+| | You want the *right* investors for your stage & sector — not a giant list | 想找**对的**投资人,不是一份群发大名单 |
+| | US / global **or** China market (bilingual; WeChat / FA / BP playbook inside) | 中美市场都覆盖(微信 / FA / BP 打法都有) |
+| | You'll reach out honestly — personalized, truthful traction, no spam | 愿意一对一真诚触达、不夸大、不群发 |
+| | You have an AI agent (Claude Code) and want fundraising *as a capability* | 想把募资变成 agent 的**能力**,而不是读一篇干货 |
+
+**Maybe skip it if 👇 / 这些情况可能不需要:**
+
+| ❌ | English | 中文 |
+|---|---|---|
+| | A banker / FA is running your entire raise for you | 全程有 FA / 投行代跑,不用自己动手 |
+| | You just want to mass-blast thousands of investors (this **refuses** that) | 只想群发几千封(这套会**拒绝**) |
+| | You're past Series B / growth stage | 已过 B 轮 / 成长期 |
+
+**What you bring:** your raise details (stage, sector, traction) + optionally your
+own authorized contacts (an exported LinkedIn CSV, or — for China founders — a
+[focused contact sheet](skills/warm-path-finder/references/contact-sheet-template.csv)).
+**你需要准备:** 你的募资信息(轮次/赛道/牵引力)+(可选)你自己授权的联系人
+(领英导出 CSV,或中国创始人用[聚焦联系人表](skills/warm-path-finder/references/contact-sheet-template.csv))。
+
 ## Skills
 
 | Skill | Use it when… | What you get |
@@ -59,7 +85,10 @@ tracks** (not literal translations), anchored by a
 [China-market playbook](shared/references/china-market-playbook.md):
 
 - `cold-email` → WeChat opener + email versions, follow-ups
-- `warm-path-finder` → 脉脉/微信/校友 paths (LinkedIn is gone in China) + X for 欧美 investors
+- `warm-path-finder` → 脉脉/微信/校友 paths (LinkedIn is gone in China). China founders
+  can't export WeChat, so instead of a LinkedIn CSV they fill a **focused contact sheet**
+  (from phone contacts / CamCard·名片全能王 / alumni rosters) — see
+  [exporting-your-data.md](skills/warm-path-finder/references/exporting-your-data.md)
 - `warm-intro` → WeChat group-intro etiquette + forwardable blurb
 - `cold-call` → opener, objection bank, close — all in Chinese
 - `pitch-narrative` → one-liner + BP story line in Chinese
