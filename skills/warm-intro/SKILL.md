@@ -30,6 +30,12 @@ it, the more likely it happens — and the better it reflects on you.
 
 ## Step 1 — Find the warm path
 
+> If the founder doesn't yet know *who* to target at the firm or *who* can
+> introduce them, run the **`warm-path-finder`** skill first — it pinpoints the
+> right person and ranks connection paths from the founder's own authorized data
+> (Gmail, exported LinkedIn connections, contacts) and public sources. This skill
+> takes over once a named introducer exists.
+
 Before writing, help the founder figure out *who* can intro them:
 
 - **Direct**: do they already know someone at/near the firm?

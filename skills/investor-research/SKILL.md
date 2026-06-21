@@ -32,7 +32,9 @@ A one-page profile with these sections. If a section can't be verified, say
    `references/diligence-checklist.md`.)
 4. **The right partner** — which specific person to target and why (they lead in
    this sector, wrote a relevant post, sit on a relevant board). Partner fit
-   matters more than firm fit — you're pitching a person.
+   matters more than firm fit — you're pitching a person. (To go deep on
+   pinpointing the person *and* finding a warm path to them, use the
+   **`warm-path-finder`** skill.)
 5. **Portfolio fit & conflicts** — analogous wins that build appetite, and any
    **direct competitor** in their portfolio (usually a hard blocker; flag it).
 6. **How they decide** — partnership process, speed, check/ownership targets,
