@@ -1,6 +1,6 @@
 # Fundraising Skills
 
-![Fundraising Skills — open-source Claude Code skills for founder-led fundraising](assets/social-card.svg)
+![Fundraising Skills — open-source Claude Code skills for founder-led fundraising](assets/social-card.png)
 
 A small, **honest** toolkit for founder-led fundraising, built as
 [Claude Code](https://claude.com/claude-code) Skills.
