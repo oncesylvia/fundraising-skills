@@ -135,22 +135,33 @@ and the matching skill triggers.
 8. **Track it all** — `pipeline-tracker` keeps momentum, follow-ups, and the
    funnel honest. Follow up twice, then stop gracefully.
 
-## Built by a founder, mid-raise
+## Why I built this
 
-I built these while raising my own round — they're the skills I wished I had for
-founder-led fundraising, so I'm sharing them. If you're raising too, I hope they
-save you time.
+Raising a first round is hard in a specific, unglamorous way: you don't always
+know who to contact, good warm intros are scarce, cold outreach mostly goes
+unanswered, and it's easy to lose weeks to it instead of building. Doing it
+across both the US and China makes it harder — neither playbook quite fits.
 
-I'm building **[Copay](https://github.com/oncesylvia)** — agentic payment
-infrastructure (a stablecoin checkout for human + AI shared spending). If you
-invest in **agentic payments / stablecoin infrastructure**, or know someone who
-does, I'd genuinely love to compare notes — reach out via GitHub
-[@oncesylvia](https://github.com/oncesylvia).
+These are the skills I put together to get through my own raise. They won't get
+you a term sheet, but they take the guesswork out of the parts that are just
+process. If you're raising too, I hope they save you some time.
 
-> 我一边给自己的公司 **Copay**(agentic 稳定币支付基础设施)募资,一边做了这套
-> skill。同在募资路上的朋友,希望能帮你省点时间。如果你看 agentic payments /
-> 稳定币基础设施方向,欢迎通过 GitHub [@oncesylvia](https://github.com/oncesylvia)
-> 找我聊聊。
+I'm building **Copay** — agentic payment infrastructure (a stablecoin checkout
+for human + AI shared spending). If you invest in agentic payments / stablecoin
+infrastructure, or know someone who does, I'd be glad to talk — reach out via
+GitHub [@oncesylvia](https://github.com/oncesylvia).
+
+> **为什么做这个**
+>
+> 第一次募资,难在一些不光鲜的地方:常常不知道该找谁,好的暖引荐很稀缺,陌生
+> 触达大多石沉大海,还容易把本该用来做产品的时间耗进去。横跨中美两个市场就更
+> 难——两边的打法都不完全适用。
+>
+> 这是我为了跑完自己这轮募资攒下来的一套 skill。它不会替你拿到 term sheet,但能
+> 把那些"纯流程"的部分省下来。同在募资的朋友,希望帮你省点时间。
+>
+> 我在做 **Copay**(agentic 稳定币支付基础设施)。看这个方向的投资人,或认识相关
+> 的朋友,欢迎通过 GitHub [@oncesylvia](https://github.com/oncesylvia) 找我聊。
 
 ## Status & contributing
 
