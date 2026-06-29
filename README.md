@@ -163,6 +163,13 @@ GitHub [@oncesylvia](https://github.com/oncesylvia).
 > 我在做 **Copay**(agentic 稳定币支付基础设施)。看这个方向的投资人,或认识相关
 > 的朋友,欢迎通过 GitHub [@oncesylvia](https://github.com/oncesylvia) 找我聊。
 
+## Related project
+
+- [**LLMprobe**](https://github.com/oncesylvia/LLMprobe) — another open-source tool
+  of mine: a platform-agnostic CLI to catch LLM API model-downgrading (降智) and
+  benchmark any OpenAI-compatible endpoint side by side. / 我做的另一个开源工具:
+  防"降智"、横评大模型 API 的命令行工具。
+
 ## Status & contributing
 
 v0.4 — eight skills covering the full funnel from story to close, including
